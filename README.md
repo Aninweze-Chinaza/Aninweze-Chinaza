@@ -25,13 +25,13 @@ I build single-purpose HTML, CSS, and JavaScript code starters alongside ready-t
 ### 📦 Selected Builds & Public Repositories
 
 * **[Personal Micro-Studio & Release Queue](https://github.com)** — My storefront and build log tracking Batch 01 of code starters and workflow blueprints *(HTML, CSS, JS • Deploying to Cloudflare Pages)*.
-* **[Shift Ledger](https://github.com)** — Lightweight shift and work-hour logging utility built for clean tracking and daily records *(JavaScript, HTML, CSS)*.
-* **[Expenses Tracker](https://github.com)** — Browser-based personal and small-business expense calculator with instant balance updates *(Vanilla JS, HTML, CSS)*.
-* **[Bookmark Saver](https://github.com)** — Fast, zero-dependency link manager for saving and organizing web resources locally *(JavaScript, HTML, CSS)*.
-* **[Supply Chain Engine](https://github.com)** — Core inventory and logistics flow logic built to model stock movement and operations *(Systems Logic)*.
-* **[Color Palette Generator](https://github.com)** — Browser utility for generating and copying dynamic color schemes on the fly *(JavaScript, CSS)*.
-* **[African Quiz Engine](https://github.com)** — Interactive, logic-driven quiz application with real-time scoring and state handling *(Vanilla JS, HTML, CSS)*.
-* **[Veloria Fashion Store](https://github.com)** — Responsive e-commerce storefront UI built collaboratively using Git version control *(Team Build)*.
+* **[Shift Ledger](https://github.com/Aninweze-Chinaza/shift-ledger)** — Lightweight shift and work-hour logging utility built for clean tracking and daily records *(JavaScript, HTML, CSS)*.
+* **[Expenses Tracker](https://github.com/Aninweze-Chinaza/expenses-tracker)** — Browser-based personal and small-business expense calculator with instant balance updates *(Vanilla JS, HTML, CSS)*.
+* **[Bookmark Saver](https://github.com/Aninweze-Chinaza/bookmark-saver)** — Fast, zero-dependency link manager for saving and organizing web resources locally *(JavaScript, HTML, CSS)*.
+* **[Supply Chain Engine](https://github.com/Aninweze-Chinaza/supply-chain-engine)** — Core inventory and logistics flow logic built to model stock movement and operations *(Systems Logic)*.
+* **[Color Palette Generator](https://github.com/Aninweze-Chinaza/color-palette-generator)** — Browser utility for generating and copying dynamic color schemes on the fly *(JavaScript, CSS)*.
+* **[African Quiz Engine](https://github.com/Aninweze-Chinaza/african-quiz-game)** — Interactive, logic-driven quiz application with real-time scoring and state handling *(Vanilla JS, HTML, CSS)*.
+* **[Veloria Fashion Store](https://github.com/)** — Responsive e-commerce storefront UI built collaboratively using Git version control *(Team Build)*.
 
 ---
 
