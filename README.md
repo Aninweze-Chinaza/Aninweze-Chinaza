@@ -1,73 +1,46 @@
-# 👋 Hi, I'm Aninweze Chinaza
+# Aninweze Chinaza (`chinaza.build`)
 
-🎓 Computer Science student at Miva Open University
-💻 Frontend Developer | Aspiring Cloud Engineer
-🌍 Based in Nigeria
+**Independent Frontend Builder & Automation Toolmaker — Based in Nigeria**
 
----
-
-## 🚀 About Me
-
-I am a passionate frontend developer with hands-on experience building responsive web applications and interactive user interfaces using HTML, CSS, and JavaScript.
-
-I enjoy turning ideas into real projects and continuously improving my skills by building and experimenting. Recently, I’ve also started exploring cloud computing through Google Skill Boost.
+I build single-purpose HTML, CSS, and JavaScript code starters alongside ready-to-import Make & Pipedream workflow blueprints designed to save freelancers, creators, and small teams hours of repetitive setup.
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ What I’m Building Right Now (Phase 01)
 
-* **Frontend:** HTML, CSS, JavaScript
-* **Programming:** Python
-* **Tools:** Git, GitHub, VS Code
-
----
-
-## 📌 Featured Projects
-
-### 🎯 African Quiz Game
-
-* Interactive quiz application with scoring system
-* Built with JavaScript, HTML, and CSS
-* Focused on logic, user interaction, and dynamic content
-
-### 🎨 Color Palette Generator
-
-* Generates dynamic color palettes
-* Demonstrates JavaScript logic and UI updates
-
-### 🛍️ Veloria Fashion Store (Team Project)
-
-* Collaborative e-commerce UI project
-* Worked with a team using GitHub for version control
-
-### 🌐 Portfolio Website
-
-* Personal website to showcase my work
-* Fully responsive design
+* **Zero-Bloat Code Starters:** Pure HTML, CSS, and vanilla JS tools (like invoice generators and fast bio pages) with no heavy frameworks or monthly fees.
+* **Importable Automation Blueprints:** Pre-built JSON workflows for Make.com and Pipedream that connect forms, spreadsheets, and instant alerts out of the box.
+* **48-Hour Micro-Releases:** Shipping small, finished tools every week instead of bloated half-built apps.
 
 ---
 
-## 📈 What I'm Currently Learning
+### 🛠️ Core Stack & Workshop Tools
 
-* Improving JavaScript skills
-* Building more real-world projects
-
----
-
-## 🤝 Open to Opportunities
-
-I am currently looking for:
-
-* SIWES / Internship opportunities (remote or onsite)
-* Collaboration on beginner-friendly projects
+* **Web & Logic:** HTML5, CSS3, Vanilla JavaScript, Python
+* **Automation & Cloud:** Make.com, Pipedream, Cloudflare Pages, Google Cloud
+* **Workflow:** Git, GitHub, VS Code
 
 ---
 
-## 📫 Contact Me
+### 📦 Selected Builds & Public Repositories
 
-📧 Email: [chinazajane245@gmail.com](mailto:chinazajane245@gmail.com)
-🔗 LinkedIn: linkedin.com/in/chinaza-aninweze-14a13334b
+* **[Personal Micro-Studio & Release Queue](https://github.com)** — My storefront and build log tracking Batch 01 of code starters and workflow blueprints *(HTML, CSS, JS • Deploying to Cloudflare Pages)*.
+* **[Shift Ledger](https://github.com)** — Lightweight shift and work-hour logging utility built for clean tracking and daily records *(JavaScript, HTML, CSS)*.
+* **[Expenses Tracker](https://github.com)** — Browser-based personal and small-business expense calculator with instant balance updates *(Vanilla JS, HTML, CSS)*.
+* **[Bookmark Saver](https://github.com)** — Fast, zero-dependency link manager for saving and organizing web resources locally *(JavaScript, HTML, CSS)*.
+* **[Supply Chain Engine](https://github.com)** — Core inventory and logistics flow logic built to model stock movement and operations *(Systems Logic)*.
+* **[Color Palette Generator](https://github.com)** — Browser utility for generating and copying dynamic color schemes on the fly *(JavaScript, CSS)*.
+* **[African Quiz Engine](https://github.com)** — Interactive, logic-driven quiz application with real-time scoring and state handling *(Vanilla JS, HTML, CSS)*.
+* **[Veloria Fashion Store](https://github.com)** — Responsive e-commerce storefront UI built collaboratively using Git version control *(Team Build)*.
 
 ---
 
-⭐ *“I learn by building — one project at a time.”*
+### 🔗 Storefront & Links
+
+* 🛒 **Digital Starters & Blueprints:** [Selar Storefront](https://selar.com/m/chinazaaninweze) 
+* 💼 **LinkedIn:** [linkedin](https://linkedin.com/in/chinaza-aninweze-14a13334b)
+* 📫 **Direct Email:** [chinazajane245@gmail.com](mailto:chinazajane245@gmail.com)
+
+---
+
+*“Small tools. Zero bloat. Shipped fast.”*
